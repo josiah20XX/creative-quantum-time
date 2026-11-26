@@ -6,7 +6,7 @@ By Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images).
 
 ## 1. **THE DECOHERENCE FRONT**
 
-![Movie Art](1.%20THE%20DECOHERENCE%20FRONT.jpg)
+![Movie Art](Artwork/1.%20THE%20DECOHERENCE%20FRONT.jpg)
 
 **Logline:** When a rogue quantum physicist discovers that the "future" is a literal superposition of infinite timelines actively collapsing into the past every nanosecond, she must race against a shadowy cabal trying to "freeze" the decoherence front to lock in a utopian timeline—erasing all other possibilities forever.
 
@@ -16,7 +16,7 @@ By Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images).
 
 ## 2. **CAUSAL ECHO**
 
-![Movie Art](2.%20CAUSAL%20ECHO.jpg)
+![Movie Art](Artwork/2.%20CAUSAL%20ECHO.jpg)
 
 **Logline:** A detective investigating a murder realizes the victim hasn't died yet—their death is just one of many superposed futures that hasn't decohered. To solve the crime, he must navigate the "probability fog" of the victim's remaining 24 hours to find which causal chain leads to the murder, before the universe randomly collapses into the wrong timeline.
 
@@ -26,7 +26,7 @@ By Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images).
 
 ## 3. **THE UNWRITTEN HOUR**
 
-![Movie Art](3.%20THE%20UNWRITTEN%20HOUR.jpg)
+![Movie Art](Artwork/3.%20THE%20UNWRITTEN%20HOUR.jpg)
 
 **Logline:** In a world where "Temporal Decoherence" has stalled, the future has stopped collapsing into the past. Time has frozen: no new events can become "real," and humanity is trapped in an eternal, looping "Now" of infinite potential but zero actuality. A young engineer must restart the universe's collapse mechanism before existence dissolves into pure noise.
 
@@ -36,7 +36,7 @@ By Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images).
 
 ## 4. **FUTURE SHOCKWAVE**
 
-![Movie Art](4.%20FUTURE%20SHOCKWAVE.jpg)
+![Movie Art](Artwork/4.%20FUTURE%20SHOCKWAVE.jpg)
 
 **Logline:** A military unit deploys "Temporal Warheads" that don't explode in space, but in *time*. These weapons force a localized region of the future to decohere instantly, collapsing all enemy possibilities into a single, catastrophic history (e.g., "the building was always destroyed"). But when a warhead misfires, it creates a "Superposition Zone" where enemy soldiers exist in all possible states of attack simultaneously.
 
@@ -46,7 +46,7 @@ By Josiah Rhys Jacobson, assisted by BraveAI and LeonardoAI (images).
 
 ## 5. **THE LAST OBSERVER**
 
-![Movie Art](5.%20THE%20LAST%20OBSERVER.jpg)
+![Movie Art](Artwork/5.%20THE%20LAST%20OBSERVER.jpg)
 
 **Logline:** As the universe ages, the natural rate of Temporal Decoherence slows. The "Present" becomes thinner, and the "Uncollapsed Future" begins to bleed into the past. An aging astronaut is the last person capable of generating enough "conscious observation" to force the future to collapse, effectively holding reality together by sheer will.
 
