@@ -6,8 +6,11 @@ This repository contains a creative intellectual exploration built around a spec
 
 ## What's Inside
 
-### Main Theory (README.md)
-A detailed exploration of "Temporal Decoherence" that reimagines how time works. Rather than time being a neutral backdrop where events happen, the theory proposes that:
+A detailed exploration and movie ideas for "Temporal Decoherence" that reimagines how time works. 
+
+### Main Theory 
+
+Rather than time being a neutral backdrop where events happen steadily and sequentially, the theory proposes that:
 
 - **The Future is Uncertain by Nature**: Tomorrow hasn't been "decided" yet—all possible outcomes coexist in a superposition (like multiple versions of reality existing at the same time).
   
@@ -15,7 +18,7 @@ A detailed exploration of "Temporal Decoherence" that reimagines how time works.
 
 - **The Present is Active**: Unlike the feeling that the present is just a thin slice on a timeline, this model suggests the present is an active zone—the boundary where possibilities are actively becoming facts.
 
-### Creative Applications (Movie Ideas Folder)
+### Creative Applications (Movie Ideas)
 
 The repository includes five movie concepts that imagine worlds where this theory shapes reality:
 
@@ -39,10 +42,6 @@ Most physics treats all moments in time equally. But we *feel* the present as sp
 
 It's a philosophical and scientific bridge between quantum weirdness (superposition, uncertainty) and human experience (the felt reality of becoming).
 
-## Who Made This
-
-Created by Josiah Rhys Jacobson, with AI assistance (BraveAI for text, LeonardoAI for images).
-
 ## Value
 
 This repository is an archive of **idea exploration**—mixing rigorous academic thinking with imaginative storytelling. It's valuable for anyone interested in:
@@ -53,3 +52,7 @@ This repository is an archive of **idea exploration**—mixing rigorous academic
 - Quantum mechanics and its philosophical implications  
 
 The movie pitches are especially interesting as proof-of-concept that abstract physics can be made visceral and dramatic.
+
+## Notes
+
+Future work could tie into the early 21st Century fascination with multiverse theory. Quantum Time and Temporal Decoherence could be a thought of, creatively at least, as surfing multiverses to "collapse" a present reality for the observer(s). That said, the advantage of Quantum Time is no infinite, multiple ongoing universes are needed, as only a single reality and single universe forms out of a hazy future temporal "foam".
